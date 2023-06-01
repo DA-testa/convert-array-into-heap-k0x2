@@ -1,5 +1,5 @@
 # KarlisOlmanis
-
+import os
 
 def build_heap(data):
     mainja = []
